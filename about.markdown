@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Machine Learning engineer who excels at development and deployment of machine learning and deep learning algorithms. Expertise in developing data pipelines by aligning and prioritizing requirements across internal and external customer stakeholders. Ensures timely product delivery using mentoring and strong technical skills. Five years of experience in database management and creating and improvising the performance of systems. 
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
