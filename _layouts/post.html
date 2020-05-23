@@ -1,18 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link href="/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet" type="text/css" media="all">
     {% if page.use_math %}
       {% include mathjax_support.html %}
     {% endif %}
   </head>
   <body>
-    <div class="container-narrow">
-      <div class="content">
-        {{ content }}
-      </div>
-      <hr/>
-    </div>    
+	{% if page.use_math %}
+      {% include mathjax_support.html %}
+    {% endif %}
   </body>
 </html>
