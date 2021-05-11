@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Machine Learning engineer who excels at development and deployment of machine learning and deep learning algorithms. Expertise in developing data pipelines by aligning and prioritizing requirements across internal and external customer stakeholders. Ensures timely product delivery using mentoring and strong technical skills. Five years of experience in database management and creating and improvising the performance of systems. 
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hello, thanks for making an effort to know me. I am an analytics professional working in the IT industry for the past 6 years where my focus of work is on data analytics and software development. Soon after my bachelor’s degree in Computer Science, I started working for Hexagon's Power Process Marine Division for more than 4 years as a Software Analyst. When working with Hexagon’s Smart 3D product, an enterprise level data rich platform that facilitates engineering drawings, I started learning about the capabilities of automating the data pipelines using data mining and engineering techniques and decided to expand my skillset in the same. In addition, with my interest in mathematics and passion for programming, I was drawn to the capabilities of AI in producing data driven solutions for real world data challenges. So, I went on to pursue a masters specializing in Data Analytics and Engineering from George Mason University. As part of academic projects and continuous learning, I conducted research on analytical methods that cover verticals such as Predictive Analytics, Operations Research methods and Natural Language Processing. I applied machine learning algorithms and deep learning methods to solve the data challenges in various domains including compiling and creating datasets for a nonprofit organization in the Northern Virginia. After graduation, I started working the World Bank where I conduct research using regression methods and data visualization on investment risk models. 
+I am passionate about solving the real-world data challenges by using the right set of statistical tools and data science methodologies by developing tools that deliver precise and scalable outputs.
