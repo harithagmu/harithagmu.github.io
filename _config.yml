@@ -32,8 +32,8 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
-  - about.md
-  - portfolio.md
+  - about.markdown
+  - experience.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
